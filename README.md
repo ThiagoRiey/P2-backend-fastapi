@@ -8,7 +8,7 @@ A arquitetura segue as melhores práticas de mercado, organizando o projeto de f
 ---
 
 ## Estrutura do Repositório
-
+```
 seu_repositorio/
 ├── app/
 │   ├── core/
@@ -27,7 +27,7 @@ seu_repositorio/
 ├── docker-compose.yml      # Orquestração dos serviços PostgreSQL (Dev e Testes)
 ├── requirements.txt        # Dependências do projeto Python
 └── README.md               # Documentação oficial do projeto
-
+```
 ---
 
 # 1. Como Subir o Banco de Testes com Docker
