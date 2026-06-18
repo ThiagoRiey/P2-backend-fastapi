@@ -1,4 +1,3 @@
-Markdown
 # Atividade Avaliativa — API de Catálogo de E-commerce
 ## Testes Automatizados com Pytest, FastAPI e PostgreSQL via Docker
 
